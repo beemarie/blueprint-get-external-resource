@@ -1,4 +1,4 @@
-# blueprint-get-external-resource
+## blueprint-get-external-resource
 
 ### Overview
 You can use this blueprint to deploy some IBM Cloud Functions assets for you.  The assets created by this blueprint are described in the manifest.yaml file, which can be found at `blueprint-get-external-resource/runtimes/your_language_choice/manifest.yaml`
